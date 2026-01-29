@@ -1,0 +1,1 @@
+This is a simple calculator that performs basic mathematical functions and prohibits dividing by 0.
